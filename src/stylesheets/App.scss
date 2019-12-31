@@ -1,0 +1,49 @@
+/* YOUR STYLING HERE */
+body {
+  background-color: $light-blue;
+}
+
+.header {
+  font-family: "Avenir-Heavy";
+  text-align: center;
+  padding-bottom: 20px;
+  color: $blue;
+}
+
+.fa-minus {
+  background-color: $green;
+  color: $black;
+  box-shadow: 2px 2px 2px $black;
+  padding: 5px;
+}
+
+.fa-plus {
+  background-color: $black;
+  color: white;
+  box-shadow: 2px 2px 2px $black;
+  padding: 5px;
+}
+
+.small-11 {
+  color: $grey;
+  font-family: "Avenir-Heavy";
+  font-size: 20px;
+}
+
+.small-12 {
+  color: $grey;
+  font-family: "Avenir-Medium";
+  font-size: 20px;
+}
+
+.small-1 {
+  margin-right: -5%;
+}
+
+hr {
+  border: 2px solid $grey;
+}
+
+.row {
+  margin-top:15px;
+}
